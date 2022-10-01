@@ -21,6 +21,7 @@ Language and Voice Lab subdivision of CADIA (https://lvl.ru.is)
 
       * [ELG API for IceNLP](https://live.european-language-grid.eu/catalogue/tool-service/17684) ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-icenlp-annotators.gif)
       * [ELG API for Icelandic Text Summarizer](https://live.european-language-grid.eu/catalogue/tool-service/18038)  ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-summarizer.gif)
+      * It's better to display the ELG web services themselves since people need to create an account to play with it so it's less of a hassle if we can just be logged in and they play.
       * [Talgervill](https://talgervill.is)   ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-talgervill.gif) Ask people to use the qr code and try the voices out on their own devices since it'll likely to be too noisy to hear Alfur and the gange from the laptop through all the noise.
       * We can use this article for the summarization and Talgervill: [Mjög sérstakt að styrkja rafbílakaup eins mikið þegar margir hefðu keypt sér bílinn án stuðnings](https://www.visir.is/g/20222318135d/mjog-ser-stakt-ad-styrkja-raf-bila-kaup-eins-mikid-thegar-margir-hefdu-keypt-ser-bilinn-an-studnings)
 
