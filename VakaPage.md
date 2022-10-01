@@ -31,8 +31,6 @@ Language and Voice Lab subdivision of CADIA (https://lvl.ru.is)
       
       ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-summarizer.gif)
 
-      * We can use this article for the summarization and Talgervill: [Mjög sérstakt að styrkja rafbílakaup eins mikið þegar margir hefðu keypt sér bílinn án stuðnings](https://www.visir.is/g/20222318135d/mjog-ser-stakt-ad-styrkja-raf-bila-kaup-eins-mikid-thegar-margir-hefdu-keypt-ser-bilinn-an-studnings)
-
       Person: Bjarni, Justyna, Þorsteinn
 
       Talgervill – kynnist röddum Álfs og vina hans, okkur nýjar íslenskar 
