@@ -1,5 +1,9 @@
 # Vísindavaka 2022
 
+CADIA (https://cadia.ru.is)
+
+Language and Voice Lab subdivision of CADIA (https://lvl.ru.is)
+
 ## Projects
 
 1. Stafræn samræðu VITVERA í þrívíddarumhverfi
