@@ -9,6 +9,9 @@
       VITVERA  er tölvukerfi sem gerir okkur keift að tala við karakter 
       í þrívíddarumhverfi á íslensku eða öðru tungumáli. Og karakterinn gefur 
       okkur svar á talaðri íslensku eða öðru tungumáli. 
+      
+      Vitvera is a computer system that allows us to speak to a character in a 3D environment in 
+      Icelandic or another language. And the character gives us an answer in spoken Icelandic or another language.
 
 2. Webpage Projects (Talgervill + Microservices)
 
@@ -21,6 +24,14 @@
 
       Talgervill – kynnist röddum Álfs og vina hans, okkur nýjar íslenskar 
       gerviraddir sem eru notaðar í alls konar, t.d. veflesara og fleira.
+      
+      Text-to-speech - Get to know the voices of Álfur and his friends, new Icelandic text-to-speech 
+      voices that are used in alls kinds of way to read the web.
+      
+      Microservices aims to increase inclusiveness and accessibility for the EU languages by making 
+      existing natural language processing (NLP) tools freely and openly available on the European Language 
+      Grid (ELG) platform. The project will make the NLP tools more accessible to a larger 
+      audience of software developers.
       
 3. The Use of VR During Testing of Fatigue in Air Traffic Controllers
 
