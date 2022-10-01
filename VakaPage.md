@@ -18,15 +18,18 @@ Language and Voice Lab subdivision of CADIA (https://lvl.ru.is)
       Icelandic or another language. And the character gives us an answer in spoken Icelandic or another language.
 
 2. Webpage Projects (Talgervill + Microservices)
-      ### [Talgervill](https://talgervill.is)   
+      [Talgervill](https://talgervill.is)   
       
-        ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-talgervill.gif)
-      ### [ELG API for IceNLP](https://live.european-language-grid.eu/catalogue/tool-service/17684) 
+      ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-talgervill.gif)
       
-        ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-icenlp-annotators.gif)
-      ### [ELG API for Icelandic Text Summarizer](https://live.european-language-grid.eu/catalogue/tool-service/18038)  
       
-        ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-summarizer.gif)
+      [ELG API for IceNLP](https://live.european-language-grid.eu/catalogue/tool-service/17684) 
+      
+      ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-icenlp-annotators.gif)
+      
+      [ELG API for Icelandic Text Summarizer](https://live.european-language-grid.eu/catalogue/tool-service/18038)  
+      
+      ![Alt text](https://github.com/cadia-lvl/visindavaka22/blob/master/qr-elg-summarizer.gif)
 
       * We can use this article for the summarization and Talgervill: [Mjög sérstakt að styrkja rafbílakaup eins mikið þegar margir hefðu keypt sér bílinn án stuðnings](https://www.visir.is/g/20222318135d/mjog-ser-stakt-ad-styrkja-raf-bila-kaup-eins-mikid-thegar-margir-hefdu-keypt-ser-bilinn-an-studnings)
 
